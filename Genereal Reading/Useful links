@@ -1,11 +1,14 @@
 1) REST APIs
 
-https://restfulapi.net/  
+-https://restfulapi.net/  
 A truly RESTful API looks like hypertext. Every addressable unit of information carries an address, 
 either explicitly (e.g., link and id attributes) 
 or implicitly (e.g., derived from the media type definition and representation structure).
 
-https://www.edureka.co/blog/what-is-rest-api/
+-https://www.edureka.co/blog/what-is-rest-api/
+
+
+-https://www.robinwieruch.de/node-express-server-rest-api
 
 
 2)Microservices
@@ -21,6 +24,7 @@ Independently deployable
 Organized around business capabilities
 Owned by a small team
 
+3) JavaScript- Promises.
 
 
 
